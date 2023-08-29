@@ -1,0 +1,51 @@
+# Bonds
+
+<center>
+![Bonds](src/images/BONDS.png)
+</center>
+
+Bonds are the mechanism used to return **BASED** to peg when it deviates below 1 **ETH**.
+
+## Overview
+
+**bBOND** tokens activate when **BASED** deviates from its peg. Here's how it functions:
+
+
+- **Purchase Conditions**: Available when **BASED** is below its 1 ETH peg.
+- **TWAP Constraint**: No issuance if **BASED**'s TWAP is between 1.00 and 1.01 ETH.
+- **Redemption**: Available for redemption when **BASED** rises above the 1 ETH peg.
+    - For example, if **BASED**'s TWAP is less than 1, exchanging **BASED** for **bBOND** will occur at a 1:1 ratio.
+
+As **BASED** rises above its peg, the redemption value of **bBOND** becomes more lucrative to incentivize users to exchange their **bBOND** for **BASED**.
+
+## Redemption Ratio ➕➖✖️
+
+ The **bBOND** to **BASED** ratio will be 1:R, with R being determined with the formula below.
+
+
+<center>
+![BASED Equation](src/images/Requation.svg)
+</center>
+
+
+<center>
+Redemption Equation
+</center>
+
+<center>
+![BASED Equation](src/images/Requationwhite.svg)
+</center>
+
+**Δ** = BASED TWAP Price, 
+**β** = Coefficient of 0.7
+
+## Why Engage with bBOND? 💡
+
+- **Stabilizing the Ecosystem**: By purchasing **bBOND** during downturns, you help stabilize the **BASED** price and ensure its peg to 1 ETH.
+  
+- **Profit Opportunities**: The structured redemption mechanism means that proactive users can benefit from price fluctuations.
+
+- **Supporting the Protocol**: Engaging with **bBOND** means you're actively participating in the protocol's stability mechanism, fostering a more resilient ecosystem.
+
+Remember, as with all crypto assets and mechanisms, there's a level of risk associated with buying and redeeming bonds. Always ensure you're well-informed before making any decisions.
+

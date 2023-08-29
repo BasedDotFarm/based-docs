@@ -1,0 +1,26 @@
+{
+  "index": "🏡    Home",
+  "Timeline": "📅    Timeline",
+  "Genesis": "🌱    Genesis",
+  "-- TOKENS": {
+    "type": "separator",
+    "title": "TOKENS"
+  },
+  "BASED": "🔵 BASED",
+  "bSHARE": "🟢 bSHARE",
+  "bBOND": "🔴 bBOND",
+  "-- Tokenomics": {
+    "type": "separator",
+    "title": "TOKENOMICS"
+  },
+  "Armory": "🛡️    The Armory",
+  "Forge": "🔥    The Forge",
+  "Warden": "💸    The Warden",
+  "Bonds": "📜    Bonds",
+  "-- Protocol": {
+    "type": "separator",
+    "title": "PROTOCOL INFO"
+  },
+  "Contracts-Wallets": "🔗    Contracts and Wallets",
+  "DAOFund": "🏛    DAO"
+}
