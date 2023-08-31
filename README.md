@@ -6,7 +6,7 @@ This is [Based Farm](http://based.farm/) documentation.
 
 ## Preview
 
-![image](https://github.com/1brahimsaid/based-docs/assets/86809275/93d59195-ce6a-4048-af5b-7a421e47a210)
+![image](https://github.com/BasedDotFarm/based-docs/assets/85694633/facda3fa-7f13-4ff5-9f65-bd5380852479)
 
 ## Local Development
 
