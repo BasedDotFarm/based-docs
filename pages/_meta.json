@@ -7,8 +7,8 @@
     "title": "TOKENS"
   },
   "BASED": "🔵 BASED",
-  "bSHARE": "🟢 bSHARE",
-  "bBOND": "🔴 bBOND",
+  "bSHARE": "🔵 bSHARE",
+  "bBOND": "🔵 bBOND",
   "-- Tokenomics": {
     "type": "separator",
     "title": "TOKENOMICS"
