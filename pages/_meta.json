@@ -22,5 +22,11 @@
     "title": "PROTOCOL INFO"
   },
   "Contracts-Wallets": "🔗    Contracts and Wallets",
-  "DAOFund": "🏛    DAO"
+  "Treasury": "🏛    Treasury",
+  "contact": {
+    "title": "Based.Farm",
+    "type": "page",
+    "href": "https://based.farm/",
+    "newWindow": true
+}
 }

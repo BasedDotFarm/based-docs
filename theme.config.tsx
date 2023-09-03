@@ -139,8 +139,9 @@ const config: DocsThemeConfig = {
     )
   },
   
+  
   project: {
-    link: "https://github.com/BasedDotFarm/basedfarmcontracts",
+    link: "https://github.com/BasedDotFarm/contracts",
   },
   docsRepositoryBase: 'https://github.com/BasedDotFarm/based-docs/tree/main/',
   primaryHue: {
@@ -161,8 +162,8 @@ const config: DocsThemeConfig = {
     const { route } = useRouter();
     const socialCard =
       route === "/" || !title
-        ? "https://cdn.discordapp.com/attachments/1139257797545037865/1142519684583936081/meta.png"
-        : `https://cdn.discordapp.com/attachments/1139257797545037865/1142519684583936081/meta.png`;
+        ? "https://media.discordapp.net/attachments/954403421476225074/1147142678195216434/meta.png"
+        : `https://media.discordapp.net/attachments/954403421476225074/1147142678195216434/meta.png`;
 
     return (
       <>
